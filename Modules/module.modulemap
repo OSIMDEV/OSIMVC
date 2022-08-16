@@ -1,0 +1,6 @@
+framework module OSIMVC {
+  umbrella header "OSIMVC.h"
+
+  export *
+  module * { export * }
+}
